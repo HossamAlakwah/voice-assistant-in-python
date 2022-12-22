@@ -1,0 +1,2 @@
+news_key= "5c6c5ff6326944458f307d6ae026e3e4"
+weather_key="16735e8fc73c95dd2298b099f8d3b866"
